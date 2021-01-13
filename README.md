@@ -29,16 +29,19 @@
 #### 社招
 * 投递链接： https://job.toutiao.com/s/Jt1kp2L
 * 扫码直接投递： 
+
 ![社招岗位大全](004bbs/social/images/002-social-referral.png)
 
 ----------------------------------------------------
 
 ### 联系方式
 * 微信电话： 18810860130
+* 邮箱：zhaomingxing.93@bytedance.com
 * 微信二维码:
+
 ![麦子](004bbs/social/images/003-wechat-private.jpeg)
-* * 邮箱：zhaomingxing.93@bytedance.com
 * 公众号： 
+
 ![明朗万物](004bbs/social/images/001-qrcode-wechat-publich.jpg)
 
 
