@@ -1,0 +1,11 @@
+*.swp
+tmp/
+*.log
+demosrv/
+output/
+*~
+*.swm
+*.swn
+*.swo
+.idea/
+/idl

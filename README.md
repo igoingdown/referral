@@ -32,6 +32,13 @@
 
 ![社招岗位大全](004bbs/social/images/002-social-referral.png)
 
+
+#### 实习
+* 投递链接： https://job.toutiao.com/s/JnCDBjx
+* 扫码直接投递：
+
+![实习岗位大全](004bbs/003internship/images/002-internship-referral.png)
+
 ----------------------------------------------------
 
 ### 联系方式
