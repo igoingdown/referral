@@ -10,19 +10,16 @@
 
 
 [md]
-## 1.社招：苏州团队还有大量 HC，部分方向如 NLP 可推到 TL
-
+## 1.社招：苏州大量HC，NLP可直推TL
 #### JD：你想知道的都在这里
+![](https://github.com/igoingdown/referral/blob/main/001-images/002-companys/001-ms-stca/001-jd.png?raw=true)
 [/md]
-[upload=1][/upload]
 
 
 [md]
 #### 扫码投递
+![](https://github.com/igoingdown/referral/blob/main/001-images/002-companys/001-ms-stca/002-qr-code.png?raw=true)
 [/md]
-[upload=2][/upload]
-
-
 
 
 
@@ -32,20 +29,17 @@
 
 
 
-
-
 [md]
 ## 3.联系方式
 #### 微信电话：18810860130
 #### 邮箱：shlang@microsoft.com
 #### 微信二维码
+![](https://github.com/igoingdown/referral/blob/main/001-images/001-wechat/001-private-account/001-maizi.png?raw=true)
 [/md]
-[upload=3][/upload]
-
 
 
 
 [md]
 ## 4.公众号 
+![](https://github.com/igoingdown/referral/blob/main/001-images/001-wechat/002-public-account/001-minglangwanwu.png?raw=true)
 [/md]
-[upload=4][/upload]
