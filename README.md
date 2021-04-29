@@ -33,11 +33,11 @@
 ![社招岗位大全](001-images/002-companys/003-bytedance/002-social-referral.png)
 
 
-#### 实习
+#### 日常实习
 * 投递链接： https://job.toutiao.com/s/JnCDBjx
 * 扫码直接投递：
 
-![实习岗位大全](001-images/002-companys/003-bytedance/004-intern-referral.png)
+![实习岗位大全](001-images/002-companys/003-bytedance/004-everyday-intern.png)
 
 ----------------------------------------------------
 
