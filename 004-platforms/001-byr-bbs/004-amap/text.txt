@@ -35,9 +35,7 @@
 
 [md]
 ## 4：公众号 
-#### 名称：明朗万物
-#### 关注就有简历指南哟
+#### 名称：明朗万物(关注送简历指南)
 #### 二维码
-
 ![楼主的公众号](https://github.com/igoingdown/referral/blob/main/001-images/001-wechat/002-public-account/001-minglangwanwu.png?raw=true)
 [/md]
