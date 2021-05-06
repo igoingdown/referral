@@ -8,36 +8,43 @@
 [ema0][ema0][ema0][ema0][ema0][ema0][ema0][ema0][ema0]
 
 
+[md]
+## 1.关于内推人
+* 内推人于 19 年硕士毕业，在微软工程院 bing multimedia 组做算法工程师
+* 已内推 200+ 人，今年春招暑期实习面试通过 11 人
+* 曾于 18 年暑假在 MSRA 做研究实习生，实习 mentor 表示非常缺人！
+[/md]
+
 
 [md]
-## 1.RSDE社招：北京+上海
-
-
+## 2.RSDE社招：北京+上海
+  
+  
 #### 扫码投递
 ![](https://github.com/igoingdown/referral/blob/main/001-images/002-companys/002-msra/001-beijing-shanghai.jpg?raw=true)
 [/md]
 
 
 [md]
-## 2.Researcher北京社招
-
+## 3.Researcher北京社招
+  
+  
 #### 扫码投递
 ![](https://github.com/igoingdown/referral/blob/main/001-images/002-companys/002-msra/002-beijing-researcher.jpg?raw=true)
 [/md]
 
 
 [md]
-## 3.上海社招
-
+## 4.上海社招
+  
+  
 #### 扫码投递
 ![](https://github.com/igoingdown/referral/blob/main/001-images/002-companys/002-msra/003-shanghai.jpg?raw=true)
 [/md]
 
 
-
-
 [md]
-## 4.联系方式
+## 5.联系方式
 #### 微信电话：18810860130
 #### 邮箱：shlang@microsoft.com
 #### 微信二维码
@@ -47,7 +54,7 @@
 
 
 [md]
-## 5.公众号 
+## 6.公众号 
 #### 名称：明朗万物(关注送简历指南)
 #### 二维码
 ![](https://github.com/igoingdown/referral/blob/main/001-images/001-wechat/002-public-account/001-minglangwanwu.png?raw=true)

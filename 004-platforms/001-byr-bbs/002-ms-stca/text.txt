@@ -8,15 +8,19 @@
 [ema0][ema0][ema0][ema0][ema0][ema0][ema0][ema0][ema0]
 
 
-
 [md]
-## 1.社招：苏州大量HC，NLP可直推TL
-#### JD：你想知道的都在这里
-![](https://github.com/igoingdown/referral/blob/main/001-images/002-companys/001-ms-stca/001-jd.png?raw=true)
+## 1.关于内推人
+* 内推人19年硕士毕业，在微软工程院 bing multimedia 组做算法工程师
+* 已内推 200+ 人，今年春招暑期实习面试通过 11 人
 [/md]
 
 
 [md]
+## 2.社招：苏州大量HC，NLP可直推TL
+#### JD：你想知道的都在这里
+![](https://github.com/igoingdown/referral/blob/main/001-images/002-companys/001-ms-stca/001-jd.png?raw=true)
+
+
 #### 扫码投递
 ![](https://github.com/igoingdown/referral/blob/main/001-images/002-companys/001-ms-stca/002-qr-code.png?raw=true)
 [/md]
@@ -24,19 +28,19 @@
 
 
 [md]
-## 2.春招（暑期实习）：已经于4.20截止！！！
+## 3.校招（暑期实习）：已于4.20截止！
 [/md]
 
 
 
 [md]
-## 3.联系方式
+## 4.联系方式
 #### 微信电话：18810860130
 #### 邮箱：shlang@microsoft.com
 #### 微信二维码
 ![](https://github.com/igoingdown/referral/blob/main/001-images/001-wechat/001-private-account/001-maizi.png?raw=true)
-
-
+  
+  
 ####  扫码加咨询群
 ![](https://github.com/igoingdown/referral/blob/main/001-images/001-wechat/003-group-chat/001-ms-001.png?raw=true)
 [/md]
@@ -44,7 +48,7 @@
 
 
 [md]
-## 4.公众号 
+## 5.公众号 
 #### 名称：明朗万物(关注送简历指南)
 #### 二维码
 ![](https://github.com/igoingdown/referral/blob/main/001-images/001-wechat/002-public-account/001-minglangwanwu.png?raw=true)
