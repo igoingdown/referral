@@ -7,9 +7,17 @@
 [ema0][ema0][ema0][ema0][ema0][ema0][ema0][ema0][ema0]
 
 
+[md]
+## 1.关于楼主
+* 楼主19年硕士毕业，在头条热点团队做服务端研发
+* 已内推 300+ 人，成功入职 6 人，有图有真相!
+![](https://github.com/igoingdown/referral/blob/main/001-images/003-ref-status/001-bytedance.png?raw=true)
+* 已内推了一位学妹到我自己所在的组，保证不坑!
+[/md]
+
 
 [md]
-## 1.薪资福利
+## 2.薪资福利
 * 福利
     * 免费三餐+下午茶
     * 免费的健身房、游泳馆
@@ -19,9 +27,8 @@
 [/md]
 
 
-
 [md]
-## 2. 校招(暑期实习+春招补录): 4.30截止！剩余 3000 offer
+## 3. 校招(暑期实习+春招补录): 4.30截止！剩余 3000 offer
 #### 内推码：B92GFRE
 #### 投递链接
 [暑期实习和春招都要！！！点这个链接就对了](https://jobs.toutiao.com/s/ekmt1QU)
@@ -30,9 +37,8 @@
 [/md]
 
 
-
 [md]
-## 3.闪电内推:仅面向研发类实习，流程超快！
+## 4.闪电内推:仅面向研发类实习，流程超快！
 #### 投递链接
 [ 研发类实习小可爱们点这里！！！流程快人一步！！！](https://job.toutiao.com/referral/mobile/lightning-referral?token=MzsxNjE0MjIxODI2ODE0OzY3MzU3MTM0NDE0OTI5OTM1Mzk7MA)
 
@@ -41,9 +47,8 @@
 [/md]
 
 
-
 [md]
-## 4.日常实习：想来随时来的实习，还有谁（sei）
+## 5.日常实习：想来随时来的实习，还有谁（sei）
 #### 投递链接
 [日常实习小可爱们点这里！！！](https://job.toutiao.com/s/ekmcK9P)
 ####  扫码直达
@@ -51,9 +56,8 @@
 [/md]
 
 
-
 [md]
-## 5.社招: 跳槽的学长学姐们，金三银四啦！！！
+## 6.社招: 跳槽的学长学姐们，金三银四啦！！！
 #### 投递链接
 [ 跳槽点这里！！！](https://job.toutiao.com/s/Jt1kp2L)
 #### 扫码直达
@@ -61,9 +65,8 @@
 [/md]
 
 
-
 [md]
-## 6.联系方式
+## 7.联系方式
 #### 微信电话： [b]18810860130[/b]
 #### 邮箱：zhaomingxing.93@bytedance.com
 #### 微信二维码
@@ -71,9 +74,8 @@
 [/md]
 
 
-
 [md]
-## 7.公众号 
+## 8.公众号 
 #### 名称：明朗万物(关注送简历指南)
 #### 二维码
 ![楼主的公众号](https://github.com/igoingdown/referral/blob/main/001-images/001-wechat/002-public-account/001-minglangwanwu.png?raw=true)
