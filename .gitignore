@@ -9,3 +9,4 @@ output/
 *.swo
 .idea/
 /idl
+*.DS_Store
