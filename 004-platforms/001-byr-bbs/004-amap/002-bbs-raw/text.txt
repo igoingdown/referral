@@ -11,10 +11,9 @@
 
 [md]
 ## 1：校招，仅面向22届毕业生
-
-#### JD：你想知道的都在这里
-![](https://github.com/igoingdown/referral/blob/main/001-images/002-companys/004-amap/001-jd.jpeg?raw=true)
+### JD：你想知道的都在这里
 [/md]
+[upload=1][/upload]
 
 
 
@@ -23,19 +22,17 @@
 [/md]
 
 
-
 [md]
 ## 3：联系方式
-#### 微信电话：18810860130
-#### 微信二维码
-![](https://github.com/igoingdown/referral/blob/main/001-images/001-wechat/001-private-account/001-maizi.png?raw=true)
+### 微信电话：18810860130
+### 微信二维码
 [/md]
-
+[upload=2][/upload]
 
 
 [md]
 ## 4：公众号 
-#### 名称：明朗万物(关注送简历指南)
-#### 二维码
-![](https://github.com/igoingdown/referral/blob/main/001-images/001-wechat/002-public-account/001-minglangwanwu.png?raw=true)
+### 名称：明朗万物(关注送简历指南)
+### 二维码
 [/md]
+[upload=3][/upload]
