@@ -31,15 +31,13 @@
 #### 社招
 * 投递链接： https://job.toutiao.com/s/Jt1kp2L
 * 扫码直接投递： 
-
-![社招岗位大全](001-images/002-companys/003-bytedance/002-social-referral.png)
+![IMG](/docs/001-images/002-companys/003-bytedance/002-social-referral.png)
 
 
 #### 日常实习
 * 投递链接： https://job.toutiao.com/s/JnCDBjx
 * 扫码直接投递：
-
-![实习岗位大全](001-images/002-companys/003-bytedance/004-everyday-intern.png)
+![IMG](/docs/001-images/002-companys/003-bytedance/004-everyday-intern.png)
 
 ----------------------------------------------------
 
@@ -47,10 +45,8 @@
 * 微信电话： 18810860130
 * 邮箱：zhaomingxing.93@bytedance.com
 * 微信二维码:
-
-![麦子](001-images/001-wechat/001-private-account/001-maizi.png)
+![IMG](/docs/001-images/001-wechat/001-private-account/001-maizi.png)
 * 公众号： 
-
-![明朗万物](001-images/001-wechat/002-public-account/001-minglangwanwu.png)
+![IMG](/docs/001-images/001-wechat/002-public-account/001-minglangwanwu.png)
 
 
