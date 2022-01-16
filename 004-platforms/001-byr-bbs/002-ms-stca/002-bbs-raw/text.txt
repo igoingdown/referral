@@ -31,7 +31,7 @@
 * 已内推 1 位社招学妹到 office 组，保证不坑
 * 所有岗位包括前端、后台、客户端、算法等均可内推
 * 社招一年以上工作经历即可，校招&实习看开放时间
-* 社招内推请先查看[官网](https://www.microsoft.com/zh-cn/ard/recruitment)信息，找出感兴趣的 Job Number
+* 社招/校招内推请先查看[官网](https://www.microsoft.com/zh-cn/ard/recruitment)信息，找出感兴趣的 Job Number
 * 有求必应，有问必答
 [/md]
 
@@ -51,7 +51,7 @@
 
 
 [md]
-## 3.校招（暑期实习）：已于4.20截止！
+## 3.校招（暑期实习）：正式批网申已开启, 内推免笔试!
 [/md]
 
 
