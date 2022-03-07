@@ -1,0 +1,1 @@
+cat ./official.txt | pbcopy
