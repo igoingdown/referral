@@ -20,7 +20,7 @@ gsed -i "1 r ./compus-fte-and-intern.txt" oo.txt
 gsed -i "1 r welfare.txt" oo.txt
 gsed -i "1 r company.txt" oo.txt
 
-gsed -i "1 r ./ref-result-pic-pos.txt" oo.txt
+gsed -i "1 r ../../../../common/ref-result-pic-pos.txt" oo.txt 
 gsed -i "1 r ../../../../common/my_intro.txt" oo.txt 
 gsed -i "1 r ../../../../common/header.txt" oo.txt 
 
