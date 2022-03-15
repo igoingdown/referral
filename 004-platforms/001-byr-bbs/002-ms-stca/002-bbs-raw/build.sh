@@ -1,8 +1,18 @@
 #!/bin/bash
 
-#todo: install gnu-sed first
+cd 002-ms-stca-images
+rm -rf *.png
 
-# cat ./text.txt | pbcopy
+ln -s ~/Downloads/ref_images/ms/001-jd-fte.png           001-jd-fte.png           
+ln -s ~/Downloads/ref_images/ms/002-qr-code.png          002-qr-code.png          
+ln -s ~/Downloads/ref_images/ms/003-maizi.png            003-maizi.png            
+ln -s ~/Downloads/ref_images/ms/004-wechat_group-001.png 004-wechat_group-001.png  
+ln -s ~/Downloads/ref_images/ms/005-minglangwanwu.png    005-minglangwanwu.png    
+ln -s ~/Downloads/ref_images/ms/006-jd-daily.png         006-jd-daily.png         
+cd ..
+
+
+#todo: install gnu-sed first
 touch oo.txt 
 cat ./empty.txt >& oo.txt
 
@@ -29,8 +39,6 @@ gsed -i "1 r ./welfare.txt" oo.txt
 gsed -i "1 r ./company.txt" oo.txt
 gsed -i "1 r ../../../../common/header.txt" oo.txt 
 
-touch text.txt && cat oo.txt >& text.txt
-cat text.txt
-cat ./oo.txt | pbcopy
+cat ./oo.txt | tee >(pbcopy)
 rm -rf oo.txt
 
