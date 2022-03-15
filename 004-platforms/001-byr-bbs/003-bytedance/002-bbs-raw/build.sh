@@ -10,7 +10,7 @@ ln -s ~/Downloads/ref_images/004-lightning-referral.png 004-lightning-referral.p
 ln -s ~/Downloads/ref_images/005-everyday-intern.png 005-everyday-intern.png 
 ln -s ~/Downloads/ref_images/006-social-referral.png 006-social-referral.png 
 ln -s ~/Downloads/ref_images/007-maizi.png 007-maizi.png 
-ln -s ~/Downloads/ref_images/008-wechat-group-bytedance-001.png 008-wechat-group-bytedance-001.png 
+ln -s ~/Downloads/ref_images/008-group-wechat-bytedance.png 008-wechat-group-bytedance-001.png 
 ln -s ~/Downloads/ref_images/009-minglangwanwu.png 009-minglangwanwu.png 
 
 cd ..

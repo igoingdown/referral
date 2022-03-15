@@ -5,9 +5,9 @@ rm -rf *.png
 
 ln -s ~/Downloads/ref_images/ms/001-jd-fte.png           001-jd-fte.png           
 ln -s ~/Downloads/ref_images/ms/002-qr-code.png          002-qr-code.png          
-ln -s ~/Downloads/ref_images/ms/003-maizi.png            003-maizi.png            
-ln -s ~/Downloads/ref_images/ms/004-wechat_group-001.png 004-wechat_group-001.png  
-ln -s ~/Downloads/ref_images/ms/005-minglangwanwu.png    005-minglangwanwu.png    
+ln -s ~/Downloads/ref_images/007-maizi.png            003-maizi.png            
+ln -s ~/Downloads/ref_images/010-group-wechat-ms.png 004-wechat_group-001.png  
+ln -s ~/Downloads/ref_images/009-minglangwanwu.png    005-minglangwanwu.png    
 ln -s ~/Downloads/ref_images/ms/006-jd-daily.png         006-jd-daily.png         
 cd ..
 
