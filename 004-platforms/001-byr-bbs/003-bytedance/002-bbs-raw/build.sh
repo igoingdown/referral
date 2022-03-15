@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cd 003-bytedance-images
-rm -rf *
+rm -rf *.png
 
 ln -s ~/Downloads/ref_images/001-ref-result-bytedance.png 001-ref-result-bytedance.png 
 ln -s ~/Downloads/ref_images/002-rush-referral.png 002-rush-referral.png 
