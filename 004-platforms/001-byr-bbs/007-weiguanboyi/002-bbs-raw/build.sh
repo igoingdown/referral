@@ -10,6 +10,8 @@ ln -s ~/Downloads/ref_images/weiguanboyi/004-dba-dev.png          004-dba-dev.pn
 ln -s ~/Downloads/ref_images/weiguanboyi/005-quant-researcher.png 005-quant-researcher.png 
 ln -s ~/Downloads/ref_images/007-maizi.png 007-maizi.png 
 ln -s ~/Downloads/ref_images/009-minglangwanwu.png    009-minglangwanwu.png     
+ln -s ~/Downloads/ref_images/weiguanboyi/011_my_ref.jpg  011_my_ref.jpg     
+
 cd ..
 
 
@@ -22,6 +24,9 @@ gsed -i "1 r ../../../../common/wechat_public.txt" oo.txt
 
 gsed -i "1 r ./my-wechat-pic-pos.txt" oo.txt
 gsed -i "1 r ../../../../common/my_addr.txt" oo.txt 
+
+gsed -i "1 r ./my-ref-qr-code-pos.txt" oo.txt
+gsed -i "1 r ./my-ref-qr-code.txt" oo.txt
 
 gsed -i "1 r ./fte-ref-pic-pos.txt" oo.txt
 gsed -i "1 r ./fte-ref.txt" oo.txt
@@ -39,4 +44,4 @@ gsed -i "1 r ../../../../common/header.txt" oo.txt
 
 cat ./oo.txt | tee >(pbcopy)
 rm -rf oo.txt
-
+,

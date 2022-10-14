@@ -1,10 +1,8 @@
 [md]
-# 【安贤量化&力扣LeetCode竞赛】
+# 【安贤量化 X LeetCode】
 
 * 现在报名参加赢取丰厚奖品
 * get简历内推直通资格
-* 2022年3月6日开赛，火热报名ing
-* 点击即可报名：[leetcode 周赛, 上号！！！](https://leetcode-cn.com/contest/weekly-contest-283)
 [/md]
 
 
