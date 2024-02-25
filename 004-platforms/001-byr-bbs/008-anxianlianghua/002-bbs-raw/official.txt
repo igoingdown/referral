@@ -1,11 +1,3 @@
-[md][/md][b]安贤量化-量化私募对冲基金招聘研发技术岗啦-2022春招（实习+全职）[/b]
-
-[b]招聘对象：[/b]
-- 实习（有转正机会）：2023届应届生（2022 年 10 月至 2023 年9月期间毕业）
-- 全职补录：2022届应届生（2021 年 10月至 2022年 9月期间毕业）
-
-[b]招聘流程：[/b]线上笔试->视频初试->视频/onsite复试->发放offer
-
 [b]岗位介绍：[/b]
 1.量化工程师（Python/C++/Go）
 2.数据开发工程师
@@ -14,7 +6,6 @@
 [b]工作地点：[/b]北京
 [b]福利待遇：[/b]技术岗位实习津贴500元+/天，弹性工时，水果零食全天候不限量，转正提供富有竞争力的薪资水平，更有多种全面福利等你来。
 
-[b]应聘网址：[/b][url=https://app.mokahr.com/su/kwoxvf]https://app.mokahr.com/su/kwoxvf[/url]
 
 [b]公司介绍[/b]
 安贤量化（AxiomQuant）是一家专注于用科学的量化方法和前沿的信息技术驱动投资的私募基金公司。
@@ -31,18 +22,5 @@
 6.平等开放的企业文化与工作氛围：安贤重视企业文化和团队建设，倡导自由开放有趣的工作氛围。
 7.其他意想不到的收获。
 
-[color=#0000FF][b][size=2]【安贤量化&力扣LeetCode竞赛】2022年3月6日10：30AM 开赛[/size][/b]
-
-现在就报名参加，赢取丰厚奖品，get简历内推直通资格
-
-扫描二维码关注安贤量化公众号报名[/color]
-
-[img=http://www.axiomquant.com/assets/img/qrcode_for_gh.jpg][/img]
-
-或点击：[url=https://leetcode-cn.com/contest/weekly-contest-283]https://leetcode-cn.com/contest/weekly-contest-283[/url]
-
-
 [upload=1][/upload]
-
---
 
