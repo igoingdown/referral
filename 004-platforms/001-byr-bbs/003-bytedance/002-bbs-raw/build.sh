@@ -3,15 +3,14 @@
 cd 003-bytedance-images
 rm -rf *.png
 
-ln -s ~/Downloads/ref_images/001-ref-result-bytedance.png 001-ref-result-bytedance.png 
-ln -s ~/Downloads/ref_images/002-rush-referral.png 002-rush-referral.png 
-ln -s ~/Downloads/ref_images/003-compus-referral.png 003-compus-referral.png 
-ln -s ~/Downloads/ref_images/004-lightning-referral.png 004-lightning-referral.png 
-ln -s ~/Downloads/ref_images/005-everyday-intern.png 005-everyday-intern.png 
-ln -s ~/Downloads/ref_images/006-social-referral.png 006-social-referral.png 
-ln -s ~/Downloads/ref_images/007-maizi.png 007-maizi.png 
-ln -s ~/Downloads/ref_images/008-group-wechat-bytedance.png 008-wechat-group-bytedance-001.png 
-ln -s ~/Downloads/ref_images/009-minglangwanwu.png 009-minglangwanwu.png 
+cp ~/Downloads/ref_images/001-ref-result-bytedance.png 001-ref-result-bytedance.png 
+cp ~/Downloads/ref_images/002-rush-referral.png 002-rush-referral.png 
+cp ~/Downloads/ref_images/003-compus-referral.png 003-compus-referral.png 
+cp ~/Downloads/ref_images/004-lightning-referral.png 004-lightning-referral.png 
+cp ~/Downloads/ref_images/005-everyday-intern.png 005-everyday-intern.png 
+cp ~/Downloads/ref_images/006-social-referral.png 006-social-referral.png 
+cp ~/Downloads/ref_images/007-maizi.png 007-maizi.png 
+cp ~/Downloads/ref_images/009-minglangwanwu.png 009-minglangwanwu.png 
 
 cd ..
 
